@@ -1,5 +1,5 @@
 # {StreetFood Website}
-#### {We aim to create the landing page of a resturants}, {version date 7/25/2021}
+#### {We aim to create the landing page of a resturant}, {version date 7/25/2021}
 #### By **{Brian Muganda Ashiali}**
 ## Description
 {The landing page is ment to help customers to familiarise themselves with the services, products and operations of Streetfood, which in this case is a resturant and furher shade more light on the business while helping it attract more clientel.. }
