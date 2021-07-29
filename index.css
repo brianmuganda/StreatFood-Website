@@ -30,3 +30,31 @@ main {
     background-color: green;
     color: white;
 }
+#p2 {
+    float: left;
+}
+#p3 {
+    float: left;
+}
+#p5 {
+        float: left;
+}
+#p4 {
+    float: left;
+}
+#p6 {
+    float: left;
+}
+#p7 {
+    float: left;
+}
+
+.sec3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+    
+}
+
