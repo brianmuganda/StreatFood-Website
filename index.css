@@ -9,3 +9,10 @@ main {
 .sec5{
     background-color: #FFD77C;
 }
+#week1 {
+    float: right;
+    margin-right: 200px;
+}
+#week {
+    float: left;
+}
