@@ -53,8 +53,14 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    text-align: center;
+    text-align: center
 }
-    
-}
+.sec2 {
+    display: flex;
 
+}
+#eat{
+color: yellow;
+font-size: x-large;
+
+}
