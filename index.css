@@ -7,6 +7,8 @@ main {
     font-family: Poppins;
 }
 .sec5{
+    display: block;
+    text-align: center;
     background-color: #FFD77C;
 }
 #week1 {
