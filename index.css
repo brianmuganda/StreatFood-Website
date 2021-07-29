@@ -16,3 +16,15 @@ main {
 #week {
     float: left;
 }
+#input {
+    width: 15%;
+    border-radius: 20px;
+    padding: 12px;
+}
+#btn {
+    width: 5%;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+}
