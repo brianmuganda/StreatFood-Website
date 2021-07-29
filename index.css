@@ -66,13 +66,14 @@ font-size: x-large;
 }
 .sec4 {
     display: flex;
+    background-color: #C9ECB5;
 }
 #spe {
     color: green;
     font-size: 40px;
 }
 #order {
-    width: 7%;
+    width: 30%;
     margin-top: 30px;
     border-radius: 30px;
     background-color: green;
@@ -82,4 +83,7 @@ font-size: x-large;
 .sec1b {
     display: flex;
     
+}
+.sec6 {
+    background-color: #C9ECB5;
 }
