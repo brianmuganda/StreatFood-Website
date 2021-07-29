@@ -64,3 +64,10 @@ color: yellow;
 font-size: x-large;
 
 }
+.sec4 {
+    display: flex;
+}
+#spe {
+    color: green;
+    font-size: 40px;
+}
