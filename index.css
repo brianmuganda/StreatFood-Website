@@ -65,11 +65,14 @@ font-size: x-large;
 }
 .sec3e {
     background-color: lightgrey;
-    border-style: none;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    
 }
 .sec3d{
     display: flex;
+    padding: 10px;
+    justify-content: space-between;
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
 }
