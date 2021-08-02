@@ -30,31 +30,6 @@ main {
     background-color: green;
     color: white;
 }
-#p2 {
-    float: left;
-}
-#p3 {
-    float: left;
-}
-#p5 {
-        float: left;
-}
-#p4 {
-    float: left;
-}
-#p6 {
-    float: left;
-}
-#p7 {
-    float: left;
-}
-
-.sec3 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    text-align: center
-}
 .sec2 {
     display: flex;
 
@@ -67,6 +42,7 @@ font-size: x-large;
 .sec4 {
     display: flex;
     background-color: #C9ECB5;
+    clear: left;
 }
 #spe {
     color: green;
@@ -86,4 +62,14 @@ font-size: x-large;
 }
 .sec6 {
     background-color: #C9ECB5;
+}
+.sec3e {
+    background-color: lightgrey;
+    border-style: none;
+}
+.sec3d{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
